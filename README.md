@@ -1,5 +1,4 @@
 ## Welcome to GitHub Games
--- 06/29/2016
 
 A project based learning activity for people who are getting started with Git and GitHub.
 
@@ -10,3 +9,5 @@ You can play the game at: http://githubschool.github.io/github-games/
 
 
 This fun open source game was cloned from: https://github.com/jakesgordon/javascript-tetris
+
+--Date: 06/30/2016 adding one new line
